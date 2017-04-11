@@ -1,11 +1,6 @@
-########################################################################
-# CPT220 - Programming in C
-# Study Period 4 2015 Assignment #3
-# Full Name        : EDIT HERE
-# Student Number   : EDIT HERE
-# Start up code provided by Paul Miller
-########################################################################
+/*
+To be populated 
+Functions as a spellchecker where you pass in the file in the terminal parameters and the app checks the file against a predefined dictionary for spelling errors.
 
-Outline any issues that your marker needs to be aware of when marking
-your assignment.
+*/
 
